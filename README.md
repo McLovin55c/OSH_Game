@@ -22,6 +22,6 @@ Das Spiel vermittelt ohne technische Hürden:
 3.  Die Rolle von **Lizenzen und Dokumentationen** für die Langlebigkeit und Reparierbarkeit von Produkten.
 
 ## Über das Projekt
-Dieses Spiel wurde entwickelt, um die Sichtbarkeit und das Verständnis für offene Hardware-Ökosysteme zu fördern. Es ist inspiriert durch die Arbeit des **OSHOP-Networks**.
+Dieses Spiel wurde entwickelt, um die Sichtbarkeit und das Verständnis für offene Hardware-Ökosysteme zu fördern. Es ist im Projekt **OSHOP** entstanden. OSHOP ist ein Teil der Initiative T!Raum und wird durch das Bundesministerium für Forschung, Technologie und Raumfahrt gefördert.
 
 **Weitere Informationen unter:** [oshop-network.de](https://www.oshop-network.de/)
